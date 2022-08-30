@@ -1,0 +1,14 @@
+{
+    "url": "http://localhost:4567",
+    "secret": "herespadev",
+    "database": "mongo",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "username": "root",
+        "password": "",
+        "database": "nodebb",
+        "uri": ""
+    },
+    "port": "4567"
+}
